@@ -1,0 +1,8 @@
+*{list-style:none; padding:0; margin:0;text-decoration:none;}
+body{background:#f2f2f2;}
+.clear{clear:both;}
+.demobox{width:11.8rem; margin:1rem auto;padding:0.1rem;}
+.demobox h2{text-align:center;font-size:0.2rem;}
+.demobox ul li{width:2.22rem; background:#fff; float:left; padding:0.04rem 0.04rem; margin:0.05rem 0 0 0.05rem;}
+.demobox ul li a img{width:2.22rem; height:1.45rem;}
+.demobox ul li a p{text-align:center; color:#666;}
